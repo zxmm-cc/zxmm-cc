@@ -1,0 +1,16 @@
+# NAME: bybit
+# AUTHOR: zxmm-cc
+# REPO: https://github.com/zxmm-cc/zxmm-cc
+# UPDATED: 2025-03-13 12:12:40
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-KEYWORD,bybit
+DOMAIN,api.bybit.com
+DOMAIN,www.bybit.com
+DOMAIN,help.bybit.com
+IP-CIDR,104.18.0.0/16
+IP-CIDR,172.64.0.0/16
