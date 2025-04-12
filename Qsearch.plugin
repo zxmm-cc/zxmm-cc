@@ -1,5 +1,6 @@
 #!name=Safari聚合搜索
-#!openUrl=默认百度搜索
+#!desc=为Safari提供快速切换搜索引擎的能力，默认使用百度搜索
+#!openUrl=
 #!author=zqzess
 #!homepage=https://github.com/zqzess/rule_for_quantumultX
 #!icon=
