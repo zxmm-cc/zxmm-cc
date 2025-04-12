@@ -1,29 +1,29 @@
 #!name=Safari聚合搜索
-#!openUrl=
+#!openUrl=默认百度搜索
 #!author=zqzess
 #!homepage=https://github.com/zqzess/rule_for_quantumultX
 #!icon=
 
 [URL Rewrite]
-#wk (Wikipedia中文)
+# wk (Wikipedia中文)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wk\+([^&]+) https://zh.wikipedia.org/wiki/$2 302
 
-#wiki (Wikipedia)
+# wiki (Wikipedia)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wiki\+([^&]+) https://wikipedia.org/wiki/$2 302
 
-#sof (Stack Overflow)
+# sof (Stack Overflow)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=sof\+([^&]+) https://stackoverflow.com/search?q=$2 302
 
-# yd  (有道词典)
+# yd (有道词典)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=yd\+([^&]+) https://dict.youdao.com/search?q=$2 302
 
-# trc  (Google 译至中)
+# trc (Google 译至中)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trc\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2 302
 
-# tre  (Google 译至英)
+# tre (Google 译至英)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=tre\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2 302
 
-# trj  (Google 译至日)
+# trj (Google 译至日)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=trj\+([^&]+) https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$2 302
 
 # gm (Google图片)
@@ -62,7 +62,7 @@
 # ddg (DuckDuckGo)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=ddg\+([^&]+) https://duckduckgo.com/?ia=about&q=$2 302
 
-# gg(Google)
+# gg (Google)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gg\+([^&]+) https://www.google.com/search?q=$2 302
 
 [MITM]
