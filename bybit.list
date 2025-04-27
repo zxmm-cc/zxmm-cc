@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN,monitor-frontend-collector.a.bybit-aws.com
+URL-REGEX,^https?://.*.amazonaws.com/.bybit.
