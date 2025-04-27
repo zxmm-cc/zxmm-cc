@@ -1,6 +1,7 @@
 # NAME: bybit
 # AUTHOR: zxmm-cc
-# UPDATED: 2025-03-13 12:12:40
+# UPDATED: 2025-04-27 20:00:00
+
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,bybitglobal.com
@@ -9,5 +10,9 @@ DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byd3c3.com
+
+DOMAIN,t1.bycsi.com
+DOMAIN,content.byabcd.com
 DOMAIN,monitor-frontend-collector.a.bybit-aws.com
+
 URL-REGEX,^https?://.*.amazonaws.com/.bybit.
