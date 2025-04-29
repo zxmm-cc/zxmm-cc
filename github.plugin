@@ -1,8 +1,7 @@
 #!name= GitHub速率限制解除
 #!desc= 解决由于github速率限制导致的返回429问题
 #!author= zxmm
-#!homepage= 插件首页，可在插件页面进行跳转
-#!icon= 插件的图标
+#!homepage= https://github.com/zxmm-cc/zxmm-cc/tree/main
 
 [Rewrite]
 ^https:\/\/(raw|gist)\.githubusercontent\.com\/ header-replace Accept-Language en-us
