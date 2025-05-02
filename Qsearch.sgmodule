@@ -1,6 +1,7 @@
-#!name=Name Here
-#!desc=Description Here
+#!name=Safari聚合搜索
+#!desc=快速切换搜索引擎，默认使用百度搜索
 
+[URL Rewrite]
 # wk (Wikipedia中文)
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=wk\+([^&]+) https://zh.wikipedia.org/wiki/$2 302
 
