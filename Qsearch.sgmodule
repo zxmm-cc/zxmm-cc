@@ -63,4 +63,4 @@
 ^https:\/\/m\.baidu\.com/s\?from=(.+)&word=gg\+([^&]+) https://www.google.com/search?q=$2 302
 
 [MITM]
-hostname = m.baidu.com
+hostname = %APPEND% m.baidu.com
