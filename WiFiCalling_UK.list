@@ -1,9 +1,9 @@
-#!name=WiFi Calling UK Rules
-#!desc=英国 SIM 卡 WiFi Calling 配置规则
+# name=WiFi Calling UK Rules
+# desc=英国 SIM 卡 WiFi Calling 配置规则
 # 规则来源：https://github.com/iniwex5
 # 整理作者：https://github.com/LOWERTOP
 # 仓库地址：https://github.com/LOWERTOP/Shadowrocket-First
-#!updated: 2025-06-19
+# updated: 2025-06-19
 
 # 地区检测
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
