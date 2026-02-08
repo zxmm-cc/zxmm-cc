@@ -98,11 +98,10 @@ URL-REGEX,^https?://.*.amazonaws.com/.bybit.
 # NAME: Bitget
 # AUTHOR: zxmm-cc
 # UPDATED: 2026-02-08 19:00:00
-DOMAIN-SUFFIX,appapi.bitget.com
-DOMAIN-SUFFIX,appapi.bitgetapp.com
-DOMAIN-SUFFIX,static.bgbstatic.com
-DOMAIN-SUFFIX,img.bitgetimg.com
-DOMAIN-SUFFIX,img.bgstatic.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bgbstatic.com
+DOMAIN-SUFFIX,bitgetimg.com
 IP-CIDR,104.18.8.145
 IP-CIDR,104.18.9.145
 
