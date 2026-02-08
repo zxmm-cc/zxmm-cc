@@ -102,8 +102,10 @@ URL-REGEX,^https?://.*.amazonaws.com/.bybit.
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,bitgetapps.com
-DOMAIN-SUFFIX,bgbstatic.com
 DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,bgbstatic.com
+DOMAIN-SUFFIX,abcdstable.com
 #IP-CIDR,104.18.8.145
 #IP-CIDR,104.18.9.145
 #IP-CIDR,88.221.83.234
