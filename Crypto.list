@@ -79,7 +79,6 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
 
-
 # NAME: Bybit
 # AUTHOR: zxmm-cc
 # UPDATED: 2025-04-27 20:00:00
@@ -95,3 +94,11 @@ DOMAIN-SUFFIX,bycsi.com
 DOMAIN,content.byabcd.com
 DOMAIN,monitor-frontend-collector.a.bybit-aws.com
 URL-REGEX,^https?://.*.amazonaws.com/.bybit.
+
+# NAME: Bitget
+# AUTHOR: zxmm-cc
+# UPDATED: 2026-02-08 19:00:00
+DOMAIN,appapi.bitget.com
+IP-CIDR,104.18.8.145
+IP-CIDR,104.18.9.145
+
