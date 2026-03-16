@@ -1,1 +1,6 @@
+# NAME: App rules
+# AUTHOR: zxmm-cc
+# UPDATED: 2026-03-16 19:39:08
 
+PROCESS-NAME,/Applications/wpsoffice.app/,DIRECT
+PROCESS-NAME,/Applications/哔哩哔哩.app/,DIRECT
