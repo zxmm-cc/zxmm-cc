@@ -2,5 +2,12 @@
 # AUTHOR: zxmm-cc
 # UPDATED: 2026-03-16 19:39:08
 
+PROCESS-NAME,/Applications/WeChat.app/,DIRECT
+PROCESS-NAME,/Applications/QQ.app/,DIRECT
+PROCESS-NAME,/Applications/QTencentMeeting.app/,DIRECT
 PROCESS-NAME,/Applications/wpsoffice.app/,DIRECT
+PROCESS-NAME,/Applications/BaiduNetdisk.app/,DIRECT
+PROCESS-NAME,/Applications/Thunder.app/,DIRECT
+PROCESS-NAME,/Applications/Doubao.app/,DIRECT
 PROCESS-NAME,/Applications/哔哩哔哩.app/,DIRECT
+PROCESS-NAME,/Applications/小米互联服务.app/,DIRECT
